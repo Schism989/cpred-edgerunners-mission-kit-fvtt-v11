@@ -1,7 +1,7 @@
 {
   "id": "edgerunners-mission-kit-v11",
   "title": "Edgerunners Mission Kit - V11",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -29,6 +29,7 @@
     }
   ],
   "description": "A conversion of Cyberpunk RED's Edgerunner's Mission Kit items into Foundry V11",
-  "url": "https://github.com/Schism989/cpred-edgerunners-mission-kit"
-  "manifest": "https://github.com/Schism989/cpred-edgerunners-mission-kit/blob/main/module.json",
+  "url": "https://github.com/Schism989/cpred-edgerunners-mission-kit-fvtt-v11",
+  "manifest": "https://github.com/Schism989/cpred-edgerunners-mission-kit-fvtt-v11/releases/latest/download/module.json",
+  "download": "https://github.com/Schism989/cpred-edgerunners-mission-kit-fvtt-v11/releases/latest/download/edgerunners-mission-kit-v11.zip"
 }
