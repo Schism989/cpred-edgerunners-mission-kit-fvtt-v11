@@ -23,6 +23,7 @@
       "type": "Item",
       "system": "cyberpunk-red-core",
       "ownership": {
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp"
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
